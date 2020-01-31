@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#026CC4</color>
+    <color name="colorAccent">#726E6E</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_skip">#00FFFFFF</color>
+    <color name="white_transparent">#92FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#726E6E</color>
+    <color name="grey_transparent">#CB726E6E</color>
+
+    <color name="orange">#FF8C48</color>
+    <color name="red">#FF4665</color>
+    <color name="blue">#3B40FE</color>
+
+
+    <!--Color untuk circle splash screen-->
+    <color name="blue_03">#73417FE6</color>
+    <color name="blue_02">#61417FE6</color>
+    <color name="blue_01">#4A83B9FF</color>
+
+    <!--Color untuk circle splash screen-->
+    <color name="btn_skip">#00FFFFFF</color>
+
+    <!--Color untuk background intro kota-->
+    <color name="color1">#424549</color>
+    <color name="color2">#D50098B1</color>
+    <color name="color3">#CD85082E</color>
+    <color name="color4">#796e25</color>
+    <color name="color5">#B67D28</color>
+    <color name="color6">#00887C</color>
+
+
+
+
+
+</resources>

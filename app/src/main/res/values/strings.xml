@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Pasolle</string>
+    <string name="intro_1">Bepergian ke tempat wisata seru wilayah Sulawesi Selatan\nMenjadi lebih mudah</string>
+    <string name="header_signup">Welcome \nBack</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="headings1">Vacation</string>
+    <string name="header_splash">Wisata ? Lebih Mudah Dengan Pasolle</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    <string name="makassar">Makassar</string>
+    <string name="desc">Description hsajka nsjkan jskankl njkasnkjda njkdanknjknsa nklnadsl nklndsakl dscsdv vdsvs vrdve tgrb gtrge</string>
+    <string name="next_to_login">Next to Login</string>
+    <string name="ket_kota">Tersedia di beberapa tempat di\nSulawesi selatan</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_login">Dont have any account? Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_hp">Nomor Handphone</string>
+    <string name="signin_inSignUp">Already have an account? Sign In</string>
+    <string name="or_login_with_sicial_account">Or Login with sicial account</string>
+    <string name="ket_forgotpassword">Enter email address assosiated with the account or use your number</string>
+    <string name="or">Or</string>
+    <string name="reset">Reset</string>
+
+
+
+    <string name="facebook_app_id">258969001697311</string>
+    <string name="fb_login_protocol_scheme">fb258969001697311</string>
+    <string name="cancel_login">Cancel Login</string>
+    <string name="error_login">Error login</string>
+    <string name="password_lama">Password Lama</string>
+    <string name="reset_your_password">Reset Your Password</string>
+    <string name="masukkan_password_lama_dan_password_baru_untuk_mereset">Masukkan Password lama dan Password baru untuk mereset</string>
+    <string name="password_baru">Password Baru</string>
+    <string name="change">Change</string>
+    <string name="welcome">WELCOME</string>
+
+</resources>
